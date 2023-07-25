@@ -215,3 +215,5 @@ function draw_wind()
     ay = ay+0.004
   end
 end
+
+return first
